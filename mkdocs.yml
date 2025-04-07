@@ -3,7 +3,6 @@ site_url: https://OlyaOlya2608.github.io/CV_test/
 theme:
   name: material
 markdown_extensions:
-  - markdown.extensions.admonition
   - admonition
   - pymdownx.details
   - pymdownx.superfences
