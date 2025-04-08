@@ -18,7 +18,7 @@
 * Git
 * Docs as code
 * HTML, CSS
-* MkDocs
+* MkDocs, Gramax
 * Wiki, Confluence
 * Документация API
 * Figma
