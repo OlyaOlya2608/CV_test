@@ -14,5 +14,5 @@ markdown_extensions:
   - pymdownx.snippets
   - tables
 nav:
-  - Обо мне: index.md
-  - Пример инструкции: instruction.md
+  - About me: index.md
+  - CV: cv.md
