@@ -16,3 +16,4 @@ markdown_extensions:
 nav:
   - About me: index.md
   - CV: cv.md
+  - Portfolio: portfolio.md

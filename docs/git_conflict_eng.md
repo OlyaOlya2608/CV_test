@@ -3,9 +3,9 @@
 A conflict in Git occurs when you try to push changes from your local repository to the remote, but the same file has also been modified remotely. </br>
 To resolve the conflict:
 
-1. [Identify the conflicting file](#identify-the-conflicting-file)  </br>
-2. [Fix the conflicting file](#fix-the-conflicting-file)  </br>
-3. [Push the changes to the repository](#push-the-changes-to-the-repository) </br>
+1. [Identify the conflicting file](#identify-the-conflicting-file)
+2. [Fix the conflicting file](#fix-the-conflicting-file)
+3. [Push the changes to the repository](#push-the-changes-to-the-repository)
 
 ## Identify the Conflicting File
 
@@ -41,6 +41,7 @@ Unmerged paths:
 ## Push the Changes to the Repository
 
 In the terminal:
-1. Stage the resolved file: `git add <file_name>`.</br>
-2. Create a commit: `git commit -m "<short description of changes>"`.</br>
-3. Push the changes to the remote repository: `git push`.</br>
+
+1. Stage the resolved file: `git add <file_name>`.
+2. Create a commit: `git commit -m "<short description of changes>"`.
+3. Push the changes to the remote repository: `git push`.
