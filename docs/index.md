@@ -1,16 +1,17 @@
-# Обо мне
+# About me
 
 <span style="float:right;padding:6px"> 
-  kirpichenkoolga@gmail.com <br> тел.: +7 983 500 8223
+  kirpichenkoolga@gmail.com <br> +7 983 500 8223 <br> +34 603 43 12 36
 </span>
 
-## Кирпиченко Ольга
-### Технический писатель 
+## Kirpichenko Olga
+### Technical Writer 
 
 #### Обо мне
 * 1,5 года работаю в IT
 * Более 7 лет работала с ГОСТ
 * Английский — Upper Intermediate
+
 
 #### Навыки
 
