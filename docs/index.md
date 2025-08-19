@@ -1,56 +1,23 @@
-# About me
+# Hi, I’m Olga Kirpichenko
 
-<span style="float:right;padding:6px"> 
-  kirpichenkoolga@gmail.com <br> +7 983 500 8223 <br> +34 603 43 12 36
-</span>
+I’m a **Technical Writer** with 1,5 years in IT and 6 years in technical documentation (GOST standards).  
+I create **user guides, instructions, UX writing, and docs-as-code projects**.
+Engineering background helps to bridge complex technical details and user needs.  
 
-## Kirpichenko Olga
-### Technical Writer 
+Location: Spain  
+Email: kirpichenkoolga@gmail.com 
+Mob: +7 983 500 8223 | +34 603 43 12 36
+[LinkedIn](https://www.linkedin.com/in/olga-kirpichenko-45bb24372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-#### Обо мне
-* 1,5 года работаю в IT
-* Более 7 лет работала с ГОСТ
-* Английский — Upper Intermediate
+## Expertise
+- Confluence, Wiki
+- UX Writing, User Guides, Step-by-step instructions
+- HTML, CSS, Figma
+- Docs-as-Code (Git, MkDocs, Markdown)
+- Info-stylistics (clear technical writing)
 
 
-#### Навыки
-
-* Markdown
-* Git
-* Docs as code
-* HTML, CSS
-* MkDocs, Gramax
-* Wiki, Confluence
-* Документация API
-* Figma
-* Инфостиль
-* Руководства пользователя
-* Пошаговые инструкции
-
-## Опыт работы
-
-#### X5 Tech (Технический писатель, 2024/03 — наст. время) 
-
-* Разрабатывала пользовательскую документацию (инструкции, руководства пользователя) для продуктовых команд в Confluence
-* Взаимодействовала с командами разработки, БА и др. в процессе работы
-* Актуализировала текущую документацию на проектах
-* Вычитывала тексты коллег
-* Создала с нуля инструкции для нового продукта
-
-#### Torgbox (Технический писатель, 2024/01 — 2024/03) 
-
-* Документировала API в docs as code парадигме (VS Code, GitHub)
-* Работала над UX/UI для портала
-
-#### АО НПП Радиосвязь (Инженер-конструктор, 2017/05 — 2023/12)
-
-* Разрабатывала и оформляла по ГОСТ документацию на изделия (технические условия, инструкции, руководства по эксплуатации, паспорта и др.)
-* Разрабатывала и оформляла ПМИ для изделий
-* Оформляла презентационные материалы на изделия
-
-## Образование и курсы
-
-* Системный анализ. Основы (2025)
-* Курс по документированию REST API (2024)
-* Business English: Verbal & Written Communication course (2024)
-* Сибирский федеральный университет, Инженер по специальности «Информационные системы и технологии» (2010 — 2015)
+## Portfolio
+ Check my [CV](cv.md) or browse examples:  
+- [Как решить конфликт в Git](docs/git_conflict_rus.md) (Rus)
+- [Раздел тестирования](docs/instruction.md) (Rus)
