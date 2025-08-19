@@ -32,9 +32,9 @@ Unmerged paths:
     >>>>>>
     ```
 2. For each conflict, decide which changes to keep:
-   - **Keep local changes** — remove the markers and the remote changes.  
-   - **Keep remote changes** — remove the markers and your local changes.  
-   - **Keep both** — remove only the markers.  
+    - **Keep local changes** — remove the markers and the remote changes.  
+    - **Keep remote changes** — remove the markers and your local changes.  
+    - **Keep both** — remove only the markers.  
 
 3. Save the file.
 
