@@ -18,7 +18,7 @@ X5 Tech is an IT division of **X5 Group**, one of the largest retail companies i
 
 **Achievements/Tasks:**  
 - Created and maintained product documentation in Confluence (user guides, step-be-step guides, manuals).  
-- Updated the Technical Writers knowledge base
+- Updated the Technical Writers knowledge base </br>
 - Collaborated with developers, BAs, and stakeholders to align docs with business needs.  
 - Edited colleagues’ texts, reducing inconsistencies and improving readability.  
 
