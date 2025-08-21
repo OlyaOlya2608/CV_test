@@ -3,8 +3,8 @@
 ## Technical Writer
 
 ### About
-Technical Writer with 1.5 years in IT and 6 years in technical documentation (GOST standards).  
-Skilled in user guides, docs-as-code, and UX writing.  
+Technical Writer with 1.5+ years in IT and 6 years in technical documentation (GOST standards).  
+Skilled in user guides, step-by-step guides, and UX writing.  
 Engineering background helps to bridge complex technical details and user needs.  
 
 ---
@@ -16,8 +16,8 @@ Engineering background helps to bridge complex technical details and user needs.
 **About the company:**  
 X5 Tech is an IT division of **X5 Group**, one of the largest retail companies in Russia. Focuses on developing digital products, cloud platforms, and big data solutions for retail.  
 
-**My role:**  
-- Created and maintained product documentation in Confluence (user guides, manuals, instructions).  
+**Achievements/Tasks:**  
+- Created and maintained product documentation in Confluence (user guides, step-be-step guides, manuals).  
 - Updated the Technical Writers knowledge base
 - Collaborated with developers, BAs, and stakeholders to align docs with business needs.  
 - Edited colleagues’ texts, reducing inconsistencies and improving readability.  
@@ -27,19 +27,19 @@ X5 Tech is an IT division of **X5 Group**, one of the largest retail companies i
 **About the company:**  
 Torgbox is a fintech and e-commerce company providing digital tools for business process automation, online trading, and customer portals.  
 
-**My role:**  
+**Achievements/Tasks:**  
 - Documented REST APIs using docs-as-code (VS Code, GitHub).  
-- Contributed to UX/UI documentation of the client portal, simplifying onboarding.  
+- Developed UI texts.  
 
 ### AO NPP Radiosvyaz — Design Engineer  
 *May 2017 – Dec 2023*  
 **About the company:**  
 AO NPP Radiosvyaz is a research and production company specializing in communication systems and radio electronics for industrial purposes.
 
-**My role:**  
+**Achievements/Tasks:**  
 - Produced technical documentation under GOST standards (manuals, specs, passports).  
 - Created program manuals and user instructions for hardware products.  
-- Prepared presentation materials for clients.  
+- Prepared presentation materials.  
 
 ---
 
@@ -52,7 +52,7 @@ AO NPP Radiosvyaz is a research and production company specializing in communica
 ---
 
 ## Skills
-- **Docs-as-Code & Tools:** Git, VS Code, MkDocs, Markdown  
 - **Collaboration & Platforms:** Confluence, Wiki, Gramax  
-- **Tech Skills:** API documentation, HTML, CSS, UX writing, Figma  
+- **Docs-as-Code & Tools:** Git, VS Code, MkDocs, Markdown  
+- **Tech Skills:** HTML, CSS, UX writing, Figma  
 - **Languages:** Russian (native), English (Upper-Intermediate)
