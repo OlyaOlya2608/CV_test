@@ -1,7 +1,7 @@
 # Hi, I’m Olga Kirpichenko
 
 I’m a **Technical Writer** with 1,5 years in IT and 6 years in technical documentation (GOST standards).  
-I create **user guides, step-by-step guides, and UX writing**. </br>
+I create **user guides, step-by-step guides, release notes and UX writing**. </br>
 Engineering background helps to bridge complex technical details and user needs.  
 
 Location: Russia, Spain  
@@ -11,7 +11,7 @@ Mob: +7 983 500 8223 | +34 603 43 12 36 </br>
 
 ## Expertise
 - Confluence, Wiki
-- UX Writing, User Guides, Step-by-step instructions
+- User Guides, Step-by-step instructions, Release notes, UX Writing
 - HTML, CSS, Figma
 - Docs-as-Code (Git, MkDocs, Markdown)
 - Info-stylistics (clear technical writing)

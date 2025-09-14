@@ -4,7 +4,7 @@
 
 ### About
 Technical Writer with 1.5+ years in IT and 6 years in technical documentation (GOST standards).  
-Skilled in user guides, step-by-step guides, and UX writing.  
+Skilled in user guides, step-by-step guides, release notes and UX writing.  
 Engineering background helps to bridge complex technical details and user needs.  
 
 ---
@@ -17,8 +17,8 @@ Engineering background helps to bridge complex technical details and user needs.
 X5 Tech is an IT division of **X5 Group**, one of the largest retail companies in Russia. Focuses on developing digital products, cloud platforms, and big data solutions for retail.  
 
 **Achievements/Tasks:**  
-- Created and maintained product documentation in Confluence (user guides, step-be-step guides, manuals).  
-- Updated the Technical Writers knowledge base </br>
+- Created and maintained product documentation in Confluence (user guides, step-be-step guides, release notes).  
+- Updated the Technical Writers knowledge base. </br>
 - Collaborated with developers, BAs, and stakeholders to align docs with business needs.  
 - Edited colleagues’ texts, reducing inconsistencies and improving readability.  
 
